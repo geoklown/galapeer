@@ -42,3 +42,20 @@ body {
 .card-content {
   color: $success-color;
 }
+
+.page-footer {
+  background-color: $secondary-color;
+  .footer-copyright {
+    background-color: $secondary-color-light;
+  }
+}
+
+.modal {
+  color: $secondary-color;
+}
+
+.row-1,
+.row-2,
+.row-3 {
+  opacity: 0;
+}

@@ -6452,3 +6452,16 @@ body {
 
 .card-content {
   color: #4CAF50; }
+
+.page-footer {
+  background-color: #212121; }
+  .page-footer .footer-copyright {
+    background-color: #424242; }
+
+.modal {
+  color: #212121; }
+
+.row-1,
+.row-2,
+.row-3 {
+  opacity: 0; }
